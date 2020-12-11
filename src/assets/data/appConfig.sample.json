@@ -1,0 +1,21 @@
+{
+  "ceeConfig": {
+    "sampleTemplateLocationPrefix": "https://component.metadatacenter.orgx/cedar-embeddable-editor-sample-templates/",
+    "showSampleTemplateLinks": true,
+    "loadSampleTemplateName": "01",
+
+    "terminologyProxyUrl": "https://api-php.cee.metadatacenter.orgx/index.php",
+
+    "showTemplateRenderingRepresentation": true,
+    "showMultiInstanceInfo": true,
+    "showTemplateSourceData": true,
+    "showInstanceDataCore": true,
+    "showInstanceDataFull": true,
+
+    "expandedInstanceDataCore": true,
+    "expandedInstanceDataFull": true,
+    "expandedTemplateSourceData": true,
+    "expandedTemplateRenderingRepresentation": true,
+    "expandedMultiInstanceInfo": true
+  }
+}
